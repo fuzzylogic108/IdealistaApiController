@@ -1,5 +1,5 @@
 # IdealistaApiController
-## .net Framework Api Conjtroller for idealista Partner Api (0.1.0-Beta)
+## .net Framework 4.7 Api Conjtroller for idealista Partner Api (0.1.0-Beta)
 
 IdealistaApiController implement th Partner Api for idealista, in the main parts with all the classes and the structures for menage it.
 - Defines data classes for the exchange of data (the jsons of the api)
